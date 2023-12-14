@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+earthaccess
+boto3
+dask
+xarray
+s3fs
+geopandas
+python-dotenv
+h5netcdf
